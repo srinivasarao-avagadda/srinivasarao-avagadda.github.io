@@ -1,0 +1,8 @@
+{
+short_name: "SrinivasaRao A",
+name: "Srinivas Homepage",
+display: "standalone",
+background_color: "#FFFFFF",
+theme_color: "#000000",
+start_url: "/"
+}
